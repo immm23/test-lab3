@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DndPersonality", "DndPersonality\DndPersonality.csproj", "{5648ADE8-A177-41B0-872F-618E352F5657}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DndPersonality.Tests", "DndPersonality.Tests\DndPersonality.Tests.csproj", "{E59CB283-A811-4937-A382-58B27C85A369}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5648ADE8-A177-41B0-872F-618E352F5657}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5648ADE8-A177-41B0-872F-618E352F5657}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5648ADE8-A177-41B0-872F-618E352F5657}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5648ADE8-A177-41B0-872F-618E352F5657}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E59CB283-A811-4937-A382-58B27C85A369}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E59CB283-A811-4937-A382-58B27C85A369}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E59CB283-A811-4937-A382-58B27C85A369}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E59CB283-A811-4937-A382-58B27C85A369}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6B5A0886-4DDF-47E3-BCA5-620060B5E5AE}
+	EndGlobalSection
+EndGlobal
